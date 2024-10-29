@@ -2,19 +2,24 @@
 
 ## Goals
 
-* Use Puppet to:
+* Use Rudder to:
     * Create grader account
     * Install updates
     * Install packages
         * OpenSSH, vim, curl, git, fortune, man
     * Add SSH public key to grader account
     * Configure Node Exporter & Prometheus on the node
+ * Answer questions
 
-## Puppet
+## Rudder
 
-Use puppet functionality to create a single manifest file to do the required functionality mentioned in the goals [1].
+Use Rudder functionality to accomplish all of the goals. You need to submit the exported yaml for all the techniques built to do the goals. [1].
 
-For 10 points Extra Credit: Write it so it prompts the user for their sudo password vs requiring puppet to be run as root.
+Additionally, submit a **questions.md** file with answers to the following questions:
+
+1. How did you find using Rudder vs Ansible?
+2. Why might you want to use Rudder vs Ansible?
+
 
 ## Submitting Assignment
 
@@ -27,4 +32,4 @@ Verify that you can see your files on GitHub for the repo under the *assignment1
 
 ## Resources
 
-1. https://puppet.com/
+1. [https://puppet.com/](https://docs.rudder.io/reference/8.2/installation/quick_install.html)
