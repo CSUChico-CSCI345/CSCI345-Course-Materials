@@ -2,7 +2,7 @@
 
 ## Goals
 
-* Use Rudder to:
+* Use Puppet to:
     * Create grader account
     * Install updates
     * Install packages
@@ -13,12 +13,12 @@
 
 ## Rudder
 
-Use Rudder functionality to accomplish all of the goals. You need to submit the exported yaml for all the techniques built to do the goals. [1].
+Use Puppet functionality to accomplish all of the goals. You need to submit the exported yaml for all the techniques built to do the goals. [1].
 
 Additionally, submit a **questions.md** file with answers to the following questions:
 
-1. How did you find using Rudder vs Ansible?
-2. Why might you want to use Rudder vs Ansible?
+1. How did you find using Puppet vs Ansible?
+2. Why might you want to use Puppet vs Ansible?
 
 
 ## Submitting Assignment
@@ -32,4 +32,4 @@ Verify that you can see your files on GitHub for the repo under the *assignment1
 
 ## Resources
 
-1. [https://puppet.com/](https://docs.rudder.io/reference/8.2/installation/quick_install.html)
+1. [https://puppet.com/](https://www.puppet.com/docs/puppet/7/install_puppet)
