@@ -11,7 +11,7 @@
     * Configure Node Exporter & Prometheus on the node
  * Answer questions
 
-## Rudder
+## Puppet
 
 Use Puppet functionality to accomplish all of the goals. You need to submit the exported yaml for all the techniques built to do the goals. [1].
 
