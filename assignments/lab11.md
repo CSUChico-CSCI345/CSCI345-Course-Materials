@@ -16,6 +16,10 @@ Use ansible functionality to create a single playbook file to do the required fu
 
 For 10 points Extra Credit: Write it so it prompts the user for their sudo password vs requiring ansible to be run as root.
 
+### Ansible Script
+
+You cannot run your Python script or other setup script from another assignment to do this.
+
 ## Submitting Assignment
 
 Commit to the *assignment11* branch of your CSCI345 organization repo with the following:
